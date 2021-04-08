@@ -4,3 +4,6 @@ spring.database.driverClassName: "com.mysql.cj.jdbc.Driver"
 spring.datasource.url: "jdbc:mysql://localhost:3306/springcloudinaction?useUnicode=true&characterEncoding=utf8"
 spring.datasource.username: "root"
 spring.datasource.password: "{cipher}7342caf8a91dbaba6b09f840733448563febc7b69f8e44ffa8b330940f70fdf0"
+redis.server: localhost
+redis.port: 1234
+signing.key: 345345fsdfsf5345
