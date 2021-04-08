@@ -14,3 +14,4 @@
 #hystrix.command.licensingservice.execution.isolation.thread.timeoutInMilliseconds: 2
 #licensingservice.ribbon.ReadTimeout: 2
 signing.key: "345345fsdfsf5345"
+zuul.sensitiveHeaders: Cookie,Set-Cookie
